@@ -1,0 +1,14 @@
+<suite name="MY test suite">   
+
+<test name="Regression Test">
+
+<classes>
+<class name="com.pro.Kiran"/> 
+<class name="com.pro.prasanta"/> 
+</classes>
+
+
+</test>
+
+
+</suite>
