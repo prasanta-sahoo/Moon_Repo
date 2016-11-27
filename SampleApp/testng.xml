@@ -1,0 +1,25 @@
+
+<suite name="My Test Suite" verbose="2" >
+<parameter name="browser" value="Firefox"></parameter>
+ <test name="Application Test">
+ 
+   <classes>
+   <class name="com.psl.app.A"> 
+ 
+      <methods>
+     
+      <include name="m1"/>
+      <include name="m2"/>
+       <include name="m3"/>
+      <!--   <include name="Login"/> -->
+        </methods>   
+        </class>
+       
+        
+     
+        </classes>
+        
+
+</test>
+
+</suite>

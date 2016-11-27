@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="My Test Suite" duration-ms="56" started-at="2015-04-22T19:54:45Z" finished-at="2015-04-22T19:54:45Z">
+    <groups>
+    </groups>
+    <test name="Application Test" duration-ms="56" started-at="2015-04-22T19:54:45Z" finished-at="2015-04-22T19:54:45Z">
+      <class name="com.psl.app.A">
+        <test-method status="PASS" signature="m1()[pri:0, instance:com.psl.app.A@7c4b87f7]" name="m1" duration-ms="19" started-at="2015-04-23T01:24:45Z" finished-at="2015-04-23T01:24:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:com.psl.app.A@7c4b87f7]" name="m2" duration-ms="1" started-at="2015-04-23T01:24:45Z" finished-at="2015-04-23T01:24:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method status="PASS" signature="m3()[pri:0, instance:com.psl.app.A@7c4b87f7]" name="m3" duration-ms="1" started-at="2015-04-23T01:24:45Z" finished-at="2015-04-23T01:24:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+      </class> <!-- com.psl.app.A -->
+    </test> <!-- Application Test -->
+  </suite> <!-- My Test Suite -->
+</testng-results>
